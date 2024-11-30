@@ -52,7 +52,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 - Nativewind
 - Animatable
 - Appwrite
-- Direkomendasikan oleh js
+- Direkomendasikan oleh js Mastery
 
 ## <a name="features">🔋 Features</a>
 
